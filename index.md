@@ -1,1 +1,7 @@
-# hi
+# About Me
+
+# Details
+
+# Education
+
+# Publications
