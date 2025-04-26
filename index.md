@@ -1,7 +1,7 @@
 *non solus*
 
 # About Me
-
+![image](Isolated.png "Title")
 
 # Details
 I do yoga.
