@@ -6,7 +6,7 @@
 # Details
 I do yoga.
 I play guitar.
-I like video games.
+I like video games (mostly counter strike).
 
 # Education
 
