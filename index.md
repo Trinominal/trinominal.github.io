@@ -4,9 +4,10 @@
 ![image](Isolated.png "Title")
 
 # Details
+I study AI.
 I do yoga.
 I play guitar.
-I like video games (mostly counter strike).
+I like games (mostly counter strike).
 
 # Education
 
