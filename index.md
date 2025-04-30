@@ -7,7 +7,11 @@
 I study AI.
 I do yoga.
 I play guitar.
-I like games (mostly counter strike).
+I like games (mostly counter-strike).
+
+Erdos number: 4
+
+Krishnamacharya number: 3
 
 # Education
 
