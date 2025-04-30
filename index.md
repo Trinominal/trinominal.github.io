@@ -11,7 +11,7 @@ I like games (mostly counter-strike).
 
 Erdos number: 4
 
-Krishnamacharya number: 3
+Krishnamacharya number: 4
 
 # Education
 
