@@ -14,12 +14,14 @@ Erdos number: 4
 Krishnamacharya number: 3
 
 # Education
-
+## University
 - 2022-now: PhD AI/CS ICR-CLAIM group, University Luxembourg
 - 2019-2021 MSc Artificial Intelligence, University of Utrecht
 - 2015-2019 BSc Artificial Intelligence, Rijks University of Groningen
 - 2013-2015 Mathematics, University Leiden
-- Secondary Education, Liudger Drachten
+## Yoga
+- 25H Rocket Yoga
+- 25H Rocket Yoga
 
 # Publications
 
