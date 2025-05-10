@@ -32,7 +32,7 @@ Krishnamacharya number: 3
 
 ## 2024
 
-- workshop; A Knoks, M Shao, L van der Torre, V de Wit, L Yu: A Principle-based Analysis for Numerical Balancing Logics for New-Generation Artificial Intelligence (LNGAI2024)
+- workshop; A Knoks, M Shao, L van der Torre, V de Wit, L Yu: A Principle-based Analysis for Numerical Balancing. LNGAI 2024
 
 ## 2023
 
