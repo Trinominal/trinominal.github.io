@@ -19,6 +19,7 @@ Krishnamacharya number: 3
 - 2019-2021 MSc Artificial Intelligence, University of Utrecht
 - 2015-2019 BSc Artificial Intelligence, Rijks University of Groningen
 - 2013-2015 Mathematics, University Leiden
+
 ## Yoga
 - 25H Rocket Yoga
 - 25H Rocket Yoga
