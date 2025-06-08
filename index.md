@@ -21,6 +21,7 @@ Krishnamacharya number: 3
 - 2015-2019 BSc Artificial Intelligence, Rijks University of Groningen
   - Thesis: Predicting in-vivo enzyme dynamics using a neural ordinary differential equation network.
 - 2013-2015 Mathematics, University Leiden
+  - Infinite dimensional sphere
 
 ## Yoga
 - 25H Rocket Yoga
