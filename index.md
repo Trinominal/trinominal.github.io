@@ -33,7 +33,7 @@ Krishnamacharya number: 3
 
 - forthcoming
   - Conference poster: DEON 2025
-- forthcoming
+- Balancing Normative Reasons for the Intelligent Human-Input-Based Blockchain Oracle (IHiBO) - de Wit, V., Yu, L., Najjar, A., Markovich, R.
   - Workshop paper: CALM 2025
 
 ## 2024
