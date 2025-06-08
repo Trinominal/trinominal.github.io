@@ -17,8 +17,9 @@ Krishnamacharya number: 3
 ## University
 - 2022-now: PhD AI/CS ICR-CLAIM group, University Luxembourg
 - 2019-2021 MSc Artificial Intelligence, University of Utrecht
+  - Thesis: Probabilistic Deontic Logics
 - 2015-2019 BSc Artificial Intelligence, Rijks University of Groningen
-  - Thesis: 
+  - Thesis: Predicting in-vivo enzyme dynamics using a neural ordinary differential equation network.
 - 2013-2015 Mathematics, University Leiden
 
 ## Yoga
