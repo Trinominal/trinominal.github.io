@@ -37,21 +37,21 @@ Krishnamacharya number: 3
 
 ## 2024
 
-- A Knoks, M Shao, L van der Torre, V de Wit, L Yu: A Principle-based Analysis for Numerical Balancing. 
+- A Principle-based Analysis for Numerical Balancing - A Knoks, M Shao, L van der Torre, V de Wit, L Yu
   - Workshop paper: LNGAI 2024
 
 ## 2023
 
-- David Streit, Vincent de Wit, Aleks Knoks: Reasons in Weighted Argumentation Graphs. 
+- Reasons in Weighted Argumentation Graphs - David Streit, Vincent de Wit, Aleks Knoks
   - Conference paper: LORI 2023: 251-259
-- Vincent de Wit: Rule rather than Exception: Defeasible Probabilistic Dyadic Deontic Logic. 
+- Rule rather than Exception: Defeasible Probabilistic Dyadic Deontic Logic - Vincent de Wit (under supervision of L. van der Torre and R. Markovich)
   - Conference poster: DEON 2023: 343-345
-- Vincent de Wit, Dragan Doder, John-Jules Ch. Meyer: Probabilistic Deontic Logics for Reasoning about Uncertain Norms. 
+- Probabilistic Deontic Logics for Reasoning about Uncertain Norms - Vincent de Wit, Dragan Doder, John-Jules Ch. Meyer
   - Journal paper: FLAP 10(2): 193-220 (2023)
 
 ## 2022
 
 ## 2021
 
-- Vincent de Wit, Dragan Doder, John-Jules Ch. Meyer: A Probabilistic Deontic Logic. 
+- A Probabilistic Deontic Logic - Vincent de Wit, Dragan Doder, John-Jules Ch. Meyer
   - Conference paper: ECSQARU 2021: 616-628
