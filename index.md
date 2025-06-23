@@ -27,6 +27,9 @@ Krishnamacharya number: 3
 - 10-12 nov 2023: 25H Rocket Yoga, Exhale Yoga Luxembourg
 - 26-28 jan 2024: 25H Rocket Yoga, Exhale Yoga Luxembourg
 
+# Travel
+- 
+
 # Publications
 
 ## 2025
