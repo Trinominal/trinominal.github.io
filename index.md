@@ -1,7 +1,7 @@
 *non solus*
 
 # About Me
-![image](LuxEtVeritas.png "Title")
+![image](Isolated.png "Lux et Veritas")
 
 # Details
 I study AI.
