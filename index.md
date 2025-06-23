@@ -24,8 +24,8 @@ Krishnamacharya number: 3
   - Infinite dimensional sphere
 
 ## Yoga
-- 10-12 nov 2023: 25H Rocket Yoga
-- 26-28 jan 2024: 25H Rocket Yoga
+- 10-12 nov 2023: 25H Rocket Yoga, Exhale Yoga Luxembourg
+- 26-28 jan 2024: 25H Rocket Yoga, Exhale Yoga Luxembourg
 
 # Publications
 
