@@ -36,14 +36,16 @@ Krishnamacharya number: 3
 
 ## 2025
 
-- 
+- Dual Scale Detachment - Vincent de Wit, Aleks Knoks and Leendert van der Torre
+  - Conference paaper: JELIA 2025, Kutaisi Georgia
 - Towards Dual Scale Detachment - Vincent de Wit, Aleks Knoks and Leendert van der Torre	
-  - Conference poster: DEON 2025
-- Balancing Normative Reasons for the Intelligent Human-Input-Based Blockchain Oracle (IHiBO) - de Wit, V., Yu, L., Najjar, A., Markovich, R.
-  - Workshop paper: CALM 2025
+  - Conference poster: DEON 2025, Vienna Austria
+
 
 ## 2024
 
+- Balancing Normative Reasons for the Intelligent Human-Input-Based Blockchain Oracle (IHiBO) - de Wit, V., Yu, L., Najjar, A., Markovich, R.
+  - Workshop paper: CALM 2024, Kyoto Japan, November 18-24
 - A Principle-based Analysis for Numerical Balancing - A Knoks, M Shao, L van der Torre, V de Wit, L Yu
   - Workshop paper: LNGAI 2024
 
