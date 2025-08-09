@@ -24,10 +24,10 @@ Krishnamacharya number: 3
   - Infinite dimensional sphere
 
 ## Yoga
-- 12-26 jul 2025: Navakaraṇa Vinyāsa Teacher Training; M1 Grounding and Opening, by Dario Calvaruso, Bologna
+- 12-26 jul 2025: 108h TT Navakaraṇa Vinyāsa Teacher Training; M1 Grounding and Opening, by Dario Calvaruso, Bologna
 - 24-25 feb 2024: Navakaraṇa Vinyāsa Immersion Workshop, by Dario Calvaruso, Exhale Yoga Luxembourg
-- 26-28 jan 2024: 25H Rocket Yoga Teacher Training, by David Cabezas Sanches, Exhale Yoga Luxembourg
-- 10-12 nov 2023: 25H Rocket Yoga Teacher Training, by David Cabezas Sanches, Exhale Yoga Luxembourg
+- 26-28 jan 2024: 25H TT Rocket Yoga Teacher Training, by David Cabezas Sanches, Exhale Yoga Luxembourg
+- 10-12 nov 2023: 25H TT Rocket Yoga Teacher Training, by David Cabezas Sanches, Exhale Yoga Luxembourg
 
 # Travel
 - 
