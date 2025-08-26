@@ -56,7 +56,7 @@ Krishnamacharya number: 3
 - Reasons in Weighted Argumentation Graphs - David Streit, Vincent de Wit, Aleks Knoks
   - Conference paper: LORI 2023: 251-259
 - Rule rather than Exception: Defeasible Probabilistic Dyadic Deontic Logic - Vincent de Wit
-  - Conference poster: DEON 2023: 343-345
+  - [Conference poster: DEON 2023: 343-345](de_WIT_Defeasible_Probabilistic_Dyadic_Deontic_Logic.pdf)
   - https://oraprdnt.uqtr.uquebec.ca/portail/gscw031?owa_no_site=7185
   - https://oraprdnt.uqtr.uquebec.ca/portail/docs/GSC7185/O0005324072_6_Poster_ReasoningWithNormsAndUncertainty.webm
 - Probabilistic Deontic Logics for Reasoning about Uncertain Norms - Vincent de Wit, Dragan Doder, John-Jules Ch. Meyer
