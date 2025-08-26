@@ -19,7 +19,8 @@ Krishnamacharya number: 3
 - 2019-2021 MSc Artificial Intelligence, University of Utrecht
   - [Thesis: Probabilistic Deontic Logics](Thesis_ProbabilisticDeonticLogics.pdf)
 - 2015-2019 BSc Artificial Intelligence, Rijks University of Groningen
-  - Thesis: Predicting in-vivo enzyme dynamics using a neural ordinary differential equation network.
+  - [Thesis: Predicting in-vivo enzyme dynamics using a neural ordinary differential equation network.](bsc_thesis.pdf)
+  - [paper](paper.pdf)
 - 2013-2015 Mathematics, University Leiden
   - Infinite dimensional sphere
 
@@ -33,7 +34,7 @@ Krishnamacharya number: 3
 # Travel
 - 
 
-# Publications
+# Contributions
 
 ## 2025
 
@@ -65,3 +66,5 @@ Krishnamacharya number: 3
 
 - A Probabilistic Deontic Logic - Vincent de Wit, Dragan Doder, John-Jules Ch. Meyer
   - Conference paper: ECSQARU 2021: 616-628
+  - https://ecsqaru.utia.cas.cz
+  - https://www.youtube.com/live/Hh944jtZoHE?si=m1ZsTVoZuJbxXtVy&t=1680
