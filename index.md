@@ -48,6 +48,8 @@ Krishnamacharya number: 3
 
 - Balancing Normative Reasons for the Intelligent Human-Input-Based Blockchain Oracle (IHiBO) - de Wit, V., Yu, L., Najjar, A., Markovich, R.
   - Workshop paper: CALM 2024, Kyoto Japan, November 18-24
+- Applying the Theory of Balancing Reasons for Documenting Fund Management Decisions on the Ethereum Network - Vincent De Wit
+  - DILLAN conference, Luxembourg Luxembourg, October 17, 18
 - A Principle-based Analysis for Numerical Balancing - A Knoks, M Shao, L van der Torre, V de Wit, L Yu
   - Workshop paper: LNGAI 2024
 
