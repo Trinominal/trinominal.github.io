@@ -34,18 +34,18 @@ Krishnamacharya number: 3
 # Teaching
 
 ## 2022
-- Discrete Mathematics 1
+- Discrete Mathematics 1 (5 ects); Teaching Assistant
 
 ## 2023 
-- Intelligent Systems 2
-- Discrete Mathematics 1
+- Intelligent Systems 2 (4 ects); Teaching Assistant
+- Discrete Mathematics 1 (5 ects); Teaching Assistant
   
 ## 2024
-- Intelligent Systems 2
-- Discrete Mathematics 1
+- Intelligent Systems 2 (4 ects); Teaching Assistant
+- Discrete Mathematics 1 (5 ects); Teaching Assistant
 
 ## 2025
-- Intelligent Systems 2
+- Intelligent Systems 2 (4 ects); Teaching Assistant
 
 # Contributions
 
