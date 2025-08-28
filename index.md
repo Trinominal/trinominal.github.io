@@ -39,7 +39,7 @@ Krishnamacharya number: 3
 ## 2025
 
 - Dual Scale Detachment - Vincent de Wit, Aleks Knoks and Leendert van der Torre
-  - Conference paaper: JELIA 2025, Kutaisi Georgia
+  - Conference paper: JELIA 2025, Kutaisi Georgia
 - Towards Dual Scale Detachment - Vincent de Wit, Aleks Knoks and Leendert van der Torre	
   - Conference poster: DEON 2025, Vienna Austria
 
