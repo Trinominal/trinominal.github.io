@@ -31,8 +31,21 @@ Krishnamacharya number: 3
 - 10-12 nov 2023: 25H TT Rocket Yoga Teacher Training, by David Cabezas Sanches, Exhale Yoga Luxembourg
 - 22    jan 2023: Wim Hoff Method Workshop
 
-# Travel
-- 
+# Teaching
+
+## 2022
+- Discrete Mathematics 1
+
+## 2023 
+- Intelligent Systems 2
+- Discrete Mathematics 1
+  
+## 2024
+- Intelligent Systems 2
+- Discrete Mathematics 1
+
+## 2025
+- Intelligent Systems 2
 
 # Contributions
 
