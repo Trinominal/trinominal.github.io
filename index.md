@@ -33,19 +33,20 @@ Krishnamacharya number: 3
 
 # Teaching
 
-## 2022
+## 2025
+- Intelligent Systems 2 (4 ects); Teaching Assistant
+
+## 2024
+- Intelligent Systems 2 (4 ects); Teaching Assistant
 - Discrete Mathematics 1 (5 ects); Teaching Assistant
 
 ## 2023 
 - Intelligent Systems 2 (4 ects); Teaching Assistant
 - Discrete Mathematics 1 (5 ects); Teaching Assistant
   
-## 2024
-- Intelligent Systems 2 (4 ects); Teaching Assistant
+## 2022
 - Discrete Mathematics 1 (5 ects); Teaching Assistant
 
-## 2025
-- Intelligent Systems 2 (4 ects); Teaching Assistant
 
 # Contributions
 
@@ -65,6 +66,8 @@ Krishnamacharya number: 3
   - DILLAN conference, Luxembourg Luxembourg, October 17, 18
 - A Principle-based Analysis for Numerical Balancing - A Knoks, M Shao, L van der Torre, V de Wit, L Yu
   - Workshop paper: LNGAI 2024
+- DILLAN text, eu workshop, Regulating Tri-Logues
+- DILLAN text, DILLAN seminar, AI history
 
 ## 2023
 
