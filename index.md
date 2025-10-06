@@ -29,7 +29,7 @@ Krishnamacharya number: 3
 - 24-25 feb 2024: Navakaraṇa Vinyāsa Immersion Workshop, by Dario Calvaruso, Exhale Yoga Luxembourg
 - 26-28 jan 2024: 25H TT Rocket Yoga Teacher Training, by David Cabezas Sanches, Exhale Yoga Luxembourg
 - 10-12 nov 2023: 25H TT Rocket Yoga Teacher Training, by David Cabezas Sanches, Exhale Yoga Luxembourg
-- 22    jan 2023: Wim Hoff Method Workshop
+- 22    jan 2023: Wim Hoff Method Workshop, by B-YOU, Exhale Yoga Luxembourg
 
 # Teaching
 
