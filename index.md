@@ -68,7 +68,7 @@ Krishnamacharya number: 3
 - A Principle-based Analysis for Numerical Balancing - A Knoks, M Shao, L van der Torre, V de Wit, L Yu
   - Workshop paper: LNGAI 2024
 - DILLAN text, eu workshop, Regulating Tri-Logues
-- DILLAN text, DILLAN seminar, AI history
+- DILLAN text, DILLAN seminar, [AI history](Timeline_of_AI.pdf)
 
 ## 2023
 
