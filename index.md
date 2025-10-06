@@ -18,7 +18,7 @@ Krishnamacharya number: 3
 - 2022-now: PhD AI/CS ICR-CLAIM group, University Luxembourg
 - 2019-2021 MSc Artificial Intelligence, University of Utrecht
   - [Thesis: Probabilistic Deontic Logics](Thesis_ProbabilisticDeonticLogics.pdf)
-  - [Viscious Delicious Bias](paper.pdf)
+  - [Vicious Delicious Bias](paper.pdf)
 - 2015-2019 BSc Artificial Intelligence, Rijks University of Groningen
   - [Thesis: Predicting in-vivo enzyme dynamics using a neural ordinary differential equation network.](bsc_thesis.pdf)
   - [paper]()
