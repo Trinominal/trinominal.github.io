@@ -22,7 +22,7 @@ Krishnamacharya number: 3
   - [Vicious Delicious Bias](paper.pdf)
 - 2015-2019 BSc Artificial Intelligence, Rijks University of Groningen
   - [Thesis: Predicting in-vivo enzyme dynamics using a neural ordinary differential equation network.](bsc_thesis.pdf)
-  - [Why is reality here and not there?]()
+  - [Why is reality here or there?]()
 - 2013-2015 Mathematics, University Leiden
   - Infinite dimensional sphere
 
