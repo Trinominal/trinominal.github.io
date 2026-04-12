@@ -9,7 +9,7 @@
 - Where: Luxembourg, Esch-sur-Alzette Belval, Maison du Nombre MNO first floor
 - Webex: https://unilu.webex.com/unilu/j.php?MTID=m8a14652e304f98f1c3a136413fc33ca5
 
-![image](bg.jpg "image")
+![image](ACDE--alina-grubnyak-ZiQkhI7417A-unsplash.jpg "image")
 
 ## Tentative Outline
 - talk 1: 9.30 - 10.30
