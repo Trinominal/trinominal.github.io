@@ -16,9 +16,10 @@
 14.30 - ...
 
 Vincent de Wit
-Title: Principled Dual-Scale Detachment for IHiBO
-Abstract: 
 
+Title: Principled Dual-Scale Detachment for IHiBO
+
+Abstract: 
 This work in Computer Science and more specifically Artificial Intelligence studies balance scales and applies them to a protocol for documenting decision-making processes. A balance scale has two scales for placing weighted elements, which are then aggregated and compared. Mathematically, this is a comparison between two weighted sums
 % $$a_1\cdot w_1+a_2\cdot w_2+\ldots+a_n\cdot w_n \geq a_{n+1}\cdot w_{n+1}+a_{n+2}\cdot w_{n+2}+\ldots+a_{n+m}\cdot w_{n+m}.$$
 which evaluate to true ($1$) or false ($0$). These linear product comparisons occur across many fields of research, including artificial neural networks, linear algebra, and economics. This dissertation investigates the use of this method for solving multi-agent decision-making problems. This approach is particularly contrasted with Abstract Argumentation, and the new approach is computationally efficient.
