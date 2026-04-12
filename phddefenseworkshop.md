@@ -1,11 +1,11 @@
 
-# PhD defense Workshop
+# PhD Defense Workshop
 
 - When: april 20, 2026, 09.30-16.00
 - Where: Luxembourg, Esch-sur-Alzette Belval, Maison du Nombre MNO first floor
 - Webex: https://unilu.webex.com/unilu/j.php?MTID=m8a14652e304f98f1c3a136413fc33ca5
 
-## tentative outline
+## Tentative Outline
 - talk 1: 9.30 - 10.30
 - break: 10.30 - 11.00; cofee or tea, something to eat
 - talk 2: 11.00 - 12.00
