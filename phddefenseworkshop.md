@@ -1,18 +1,18 @@
 
 # PhD defense Workshop
 
-april 20, 2026
-Luxembourg, Esch-sur-Alzette Belval, Maison du Nombre MNO first floor 
-webex: https://unilu.webex.com/unilu/j.php?MTID=m8a14652e304f98f1c3a136413fc33ca5
+- When: april 20, 2026, 10.00-16.00
+- Where: Luxembourg, Esch-sur-Alzette Belval, Maison du Nombre MNO first floor
+- Webex: https://unilu.webex.com/unilu/j.php?MTID=m8a14652e304f98f1c3a136413fc33ca5
 
 ## tentative outline
 (9-12 or) 10-13
-
+### Speakers
 - Leon van der Torre
 - Antonino Rotolo
 - Jan Broersen
 
-## PhD Defense
+### PhD Defense
 14.30 - ...
 
 Vincent de Wit
