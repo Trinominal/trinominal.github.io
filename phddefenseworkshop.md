@@ -1,20 +1,24 @@
 
 # PhD defense Workshop
 
-- When: april 20, 2026, 10.00-16.00
+- When: april 20, 2026, 09.30-16.00
 - Where: Luxembourg, Esch-sur-Alzette Belval, Maison du Nombre MNO first floor
 - Webex: https://unilu.webex.com/unilu/j.php?MTID=m8a14652e304f98f1c3a136413fc33ca5
 
 ## tentative outline
-(9-12 or) 10-13
+- talk 1: 9.30 - 10.30
+- break: 10.30 - 11.00; cofee or tea, something to eat
+- talk 2: 11.00 - 12.00
+- talk 3: 12.00 - 13.00
+- Lunch: 13.00 - 14.30
+- Phd Defense: 14.30 - 16.00
+
 ### Speakers
-- Leon van der Torre
-- Antonino Rotolo
-- Jan Broersen
+- Prof. Leon van der Torre
+- Prof. Antonino Rotolo
+- Prof. Jan Broersen
 
 ### PhD Defense
-14.30 - ~16.00
-
 Vincent de Wit
 
 Title: Principled Dual-Scale Detachment for IHiBO
