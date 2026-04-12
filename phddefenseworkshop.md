@@ -1,4 +1,4 @@
-<div style="background-image: url('bg.jpg'); background-size: cover; background-position: center; background-repeat: repeat; position: fixed; top: 0; left: 0; z-index: -1;">
+<div style="background-image: url('bg.jpg'); background-size: cover; background-position: center; background-repeat: repeat; position: fixed; top: 0; left: 0; width: 10%; height: 10% z-index: -1;">
 </div>
 
 # PhD Defense Workshop
