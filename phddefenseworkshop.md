@@ -1,13 +1,15 @@
 <div style="background-image: url(''); background-size: cover; background-position: center; background-repeat: repeat; position: fixed; top: 0; left: 0; width: 10%; height: 10% z-index: -1;">
 </div>
 
-![image](bg.jpg "image")
+
 
 # PhD Defense Workshop
 
 - When: april 20, 2026, 09.30-16.00
 - Where: Luxembourg, Esch-sur-Alzette Belval, Maison du Nombre MNO first floor
 - Webex: https://unilu.webex.com/unilu/j.php?MTID=m8a14652e304f98f1c3a136413fc33ca5
+
+![image](bg.jpg "image")
 
 ## Tentative Outline
 - talk 1: 9.30 - 10.30
