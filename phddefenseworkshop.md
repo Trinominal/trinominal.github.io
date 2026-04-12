@@ -22,6 +22,8 @@
 ### Speakers
 - Prof. Leon van der Torre
 - Prof. Antonino Rotolo
+  - Compliance Procedures of Agentic AI Systems in AI Regulatory Sandboxes
+  - Agentic AI's dynamic, adaptive behaviour challenges the EU AI Act's risk-based compliance in regulatory sandboxes, as its evolving risks surpass static assessment. We propose a computational compliance procedure for Agentic AI in AI regulatory sandboxes, grounded in defeasible deontic logic. Our dynamic, recursive framework models agentic trajectories and their real-time impact on fundamental rights, enabling continuous, transparent identification and mitigation of normative risks. This approach supports providers and regulators in operationalizing AI Act in sandboxes safeguards for high-risk agentic AI systems.
 - Prof. Jan Broersen
 
 ### PhD Defense
