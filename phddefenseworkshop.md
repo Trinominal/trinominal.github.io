@@ -25,6 +25,8 @@
   - Compliance Procedures of Agentic AI Systems in AI Regulatory Sandboxes
   - Agentic AI's dynamic, adaptive behaviour challenges the EU AI Act's risk-based compliance in regulatory sandboxes, as its evolving risks surpass static assessment. We propose a computational compliance procedure for Agentic AI in AI regulatory sandboxes, grounded in defeasible deontic logic. Our dynamic, recursive framework models agentic trajectories and their real-time impact on fundamental rights, enabling continuous, transparent identification and mitigation of normative risks. This approach supports providers and regulators in operationalizing AI Act in sandboxes safeguards for high-risk agentic AI systems.
 - Prof. Jan Broersen
+  - Backward looking responsibility reconsidered
+  - We consider the problem of formally defining backward looking responsibility for outcomes in a non-deterministic world. To the classical achievement stit analysis we add that agents can intervene in ongoing courses of events that are heading towards a certain outcome. The two main modes of responsibility we formally characterise are: (1) being the agent who initiated a course of events that led to an outcome, (2) being an agent that had the opportunity to intervene in a course of events that led to an outcome, but refrained from doing so. We point to further causal (but-for) modes, but leave their formal definitions to a future article. Surprisingly, the fundamental categories of causal responsibility we define, have not been characterised before in the literature. 
 
 ### PhD Defense
 Vincent de Wit
