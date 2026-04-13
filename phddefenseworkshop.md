@@ -13,9 +13,9 @@
 
 ## Tentative Outline
 - talk 1: 9.00 - 10.00
-- break: 10.00 - 10.20; cofee or tea, something to eat
+- break: 10.00 - 10.20; coffee or tea, something to eat
 - talk 2: 10.20 - 11.20
-- break: 11.20 - 11.40; cofee or tea, something to eat
+- break: 11.20 - 11.40; coffee or tea, something to eat
 - talk 3: 11.40 - 12.40
 - Lunch: 12.40 - 14.30
 - Phd Defense: 14.30 - 16.00
