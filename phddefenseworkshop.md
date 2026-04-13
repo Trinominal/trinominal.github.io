@@ -12,19 +12,20 @@
 ![image](ACDE--alina-grubnyak-ZiQkhI7417A-unsplash.jpg "image")
 
 ## Tentative Outline
-- talk 1: 9.30 - 10.30
-- break: 10.30 - 11.00; cofee or tea, something to eat
-- talk 2: 11.00 - 12.00
-- talk 3: 12.00 - 13.00
-- Lunch: 13.00 - 14.30
+- talk 1: 9.00 - 10.00
+- break: 10.00 - 10.20; cofee or tea, something to eat
+- talk 2: 10.20 - 11.20
+- break: 11.20 - 11.40; cofee or tea, something to eat
+- talk 3: 11.40 - 12.40
+- Lunch: 12.40 - 14.30
 - Phd Defense: 14.30 - 16.00
 
 ### Speakers
-- Prof. Leon van der Torre
-- Prof. Antonino Rotolo
+- Prof. Leon van der Torre; University Luxembourg
+- Prof. Antonino Rotolo; University Bologna
   - Compliance Procedures of Agentic AI Systems in AI Regulatory Sandboxes
   - Agentic AI's dynamic, adaptive behaviour challenges the EU AI Act's risk-based compliance in regulatory sandboxes, as its evolving risks surpass static assessment. We propose a computational compliance procedure for Agentic AI in AI regulatory sandboxes, grounded in defeasible deontic logic. Our dynamic, recursive framework models agentic trajectories and their real-time impact on fundamental rights, enabling continuous, transparent identification and mitigation of normative risks. This approach supports providers and regulators in operationalizing AI Act in sandboxes safeguards for high-risk agentic AI systems.
-- Prof. Jan Broersen
+- Prof. Jan Broersen; University Utrecht
   - Backward looking responsibility reconsidered
   - We consider the problem of formally defining backward looking responsibility for outcomes in a non-deterministic world. To the classical achievement stit analysis we add that agents can intervene in ongoing courses of events that are heading towards a certain outcome. The two main modes of responsibility we formally characterise are: (1) being the agent who initiated a course of events that led to an outcome, (2) being an agent that had the opportunity to intervene in a course of events that led to an outcome, but refrained from doing so. We point to further causal (but-for) modes, but leave their formal definitions to a future article. Surprisingly, the fundamental categories of causal responsibility we define, have not been characterised before in the literature. 
 
