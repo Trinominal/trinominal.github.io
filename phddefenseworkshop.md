@@ -23,6 +23,8 @@
 
 ### Speakers
 - Prof. Leon van der Torre; University Luxembourg
+  - Deontic explanations: aligning deontic modality and abstract argumentation
+  - In the project “Logical Methods for Deontic Explanations” (LODEX) we combine methods from deontic logic, normative systems and formal argumentation for explainable AI. In this talk I reflect on the observation that both Kratzer’s theory of modality (known as standard deontic logic) and Dung’s theory of argumentation (known as abstract argumentation) are ways to reason in the presence of conflict- 
 - Prof. Antonino Rotolo; University Bologna
   - Compliance Procedures of Agentic AI Systems in AI Regulatory Sandboxes
   - Agentic AI's dynamic, adaptive behaviour challenges the EU AI Act's risk-based compliance in regulatory sandboxes, as its evolving risks surpass static assessment. We propose a computational compliance procedure for Agentic AI in AI regulatory sandboxes, grounded in defeasible deontic logic. Our dynamic, recursive framework models agentic trajectories and their real-time impact on fundamental rights, enabling continuous, transparent identification and mitigation of normative risks. This approach supports providers and regulators in operationalizing AI Act in sandboxes safeguards for high-risk agentic AI systems.
