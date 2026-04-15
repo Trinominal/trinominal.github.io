@@ -13,9 +13,9 @@
 ![image](ACDE--alina-grubnyak-ZiQkhI7417A-unsplash.jpg "image")
 
 ## Tentative Outline
-- talk 1: 9.00 - 10.00
+- talk 1: 9.00 - 10.00; Prof. Leon van der Torre
 - break: 10.00 - 10.20; coffee or tea, something to eat
-- talk 2: 10.20 - 11.20
+- talk 2: 10.20 - 11.20; Prof. Jan Broersen
 - break: 11.20 - 11.40; coffee or tea, something to eat
 - talk 3: 11.40 - 12.40; Prof. Antonino Rotolo
 - Lunch: 12.40 - 14.30
