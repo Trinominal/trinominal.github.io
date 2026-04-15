@@ -19,7 +19,7 @@
 - break: 11.20 - 11.40; coffee or tea, something to eat
 - talk 3: 11.40 - 12.40; Prof. Antonino Rotolo
 - Lunch: 12.40 - 14.30
-- Phd Defense: 14.30 - 16.00
+- Phd Defense: 14.30 - 16.30
 
 ### Speakers
 - Prof. Leon van der Torre; University Luxembourg
