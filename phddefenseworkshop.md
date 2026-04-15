@@ -13,13 +13,13 @@
 ![image](ACDE--alina-grubnyak-ZiQkhI7417A-unsplash.jpg "image")
 
 ## Tentative Outline
-- talk 1: 9.00 - 10.00; Prof. Jan Broersen
-- break: 10.00 - 10.20; coffee or tea, something to eat
-- talk 2: 10.20 - 11.20; Prof. Leon van der Torre
-- break: 11.20 - 11.40; coffee or tea, something to eat
-- talk 3: 11.40 - 12.40; Prof. Antonino Rotolo
-- Lunch: 12.40 - 14.30
-- Phd Defense: 14.30 - 16.30
+- 09.00 - 10.00; talk 1:  Prof. Jan Broersen
+- 10.00 - 10.20; break: coffee or tea, something to eat
+- 10.20 - 11.20; talk 2: Prof. Leon van der Torre
+- 11.20 - 11.40; break: coffee or tea, something to eat
+- 11.40 - 12.40; talk 3: Prof. Antonino Rotolo
+- 12.40 - 14.30; Lunch
+- 14.30 - 16.30; Phd Defense: Vincent de Wit
 
 ### Speakers
 - Prof. Jan Broersen; University Utrecht
