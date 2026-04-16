@@ -14,11 +14,10 @@
 
 ## Tentative Outline
 - 09.00 - 10.00; talk 1:  Prof. Jan Broersen
-- 10.00 - 10.20; break: coffee or tea, something to eat
+- 10.00 - 10.20; break
 - 10.20 - 11.20; talk 2: Prof. Leon van der Torre
-- 11.20 - 11.40; break: coffee or tea, something to eat
-- 11.40 - 12.40; talk 3: Prof. Antonino Rotolo
-- 12.40 - 14.30; Lunch
+- 11.20 - 12.20; talk 3: Prof. Antonino Rotolo
+- 12.20 - 14.30; Lunch
 - 14.30 - 16.30; Phd Defense: Vincent de Wit
 
 ### Speakers
