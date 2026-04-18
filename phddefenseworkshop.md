@@ -12,7 +12,7 @@
 
 ![image](ACDE--alina-grubnyak-ZiQkhI7417A-unsplash.jpg "image")
 
-## Tentative Outline
+## Outline
 - 09.00 - 10.00; talk 1:  Prof. Jan Broersen
 - 10.00 - 10.20; break
 - 10.20 - 11.20; talk 2: Prof. Leon van der Torre
