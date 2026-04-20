@@ -7,8 +7,8 @@
 
 - When: april 20, 2026, 09.00-17.30
 - Where: Luxembourg, Esch-sur-Alzette Belval, Maison du Nombre MNO first floor room 1.010
-- Teams workshop link: https://teams.microsoft.com/meet/330185168213465?p=BgbzZRsEqgVkc50GnL
-- Webex defense link: https://unilu.webex.com/unilu/j.php?MTID=m8a14652e304f98f1c3a136413fc33ca5
+- Workshop link: https://unilu.webex.com/unilu/j.php?MTID=m7218fbe060b0ef865ea7e2c0683975f7
+- Defense link: https://unilu.webex.com/unilu/j.php?MTID=m8a14652e304f98f1c3a136413fc33ca5
 
 ![image](ACDE--alina-grubnyak-ZiQkhI7417A-unsplash.jpg "image")
 
