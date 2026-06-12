@@ -3,6 +3,7 @@
 # About Me
 ![image](Isolated.png "Lux et Veritas")
 
+
 # Details
 I study AI.
 I do yoga.
@@ -12,6 +13,7 @@ I like games (mostly counter-strike).
 Erdos number: 4
 
 Krishnamacharya number: 3
+
 
 # Education
 ## University
@@ -35,35 +37,14 @@ Krishnamacharya number: 3
 - 22    jan 2023: Wim Hoff Method Workshop, by B-YOU, Exhale Yoga Luxembourg
 - 2018: Ashtanga Yoga Immersion
 
-# Teaching
-
-## 2025
-- Intelligent Systems 2 (4 ects); Teaching Assistant
-
-## 2024
-- Intelligent Systems 2 (4 ects); Teaching Assistant
-- Discrete Mathematics 1 (5 ects); Teaching Assistant
-
-## 2023 
-- Intelligent Systems 2 (4 ects); Teaching Assistant
-- Discrete Mathematics 1 (5 ects); Teaching Assistant
-  
-## 2022
-- Discrete Mathematics 1 (5 ects); Teaching Assistant
-
 
 # Contributions
-
 ## 2025
-
 - Dual Scale Detachment - Vincent de Wit, Aleks Knoks and Leendert van der Torre
   - Conference paper: JELIA 2025, Kutaisi Georgia
 - Towards Dual Scale Detachment - Vincent de Wit, Aleks Knoks and Leendert van der Torre	
   - Conference poster: DEON 2025, Vienna Austria
-
-
 ## 2024
-
 - Balancing Normative Reasons for the Intelligent Human-Input-Based Blockchain Oracle (IHiBO) - de Wit, V., Yu, L., Najjar, A., Markovich, R.
   - Workshop paper: CALM 2024, Kyoto Japan, November 18-24
 - Applying the Theory of Balancing Reasons for Documenting Fund Management Decisions on the Ethereum Network - Vincent De Wit
@@ -72,9 +53,7 @@ Krishnamacharya number: 3
   - Workshop paper: LNGAI 2024
 - DILLAN text, eu workshop, Regulating Tri-Logues
 - DILLAN text, DILLAN seminar, [AI history](Timeline_of_AI.pdf)
-
 ## 2023
-
 - Reasons in Weighted Argumentation Graphs - David Streit, Vincent de Wit, Aleks Knoks
   - Conference paper: LORI 2023: 251-259
 - Rule rather than Exception: Defeasible Probabilistic Dyadic Deontic Logic - Vincent de Wit
@@ -83,12 +62,23 @@ Krishnamacharya number: 3
   - [video](https://oraprdnt.uqtr.uquebec.ca/portail/docs/GSC7185/O0005324072_6_Poster_ReasoningWithNormsAndUncertainty.webm)
 - Probabilistic Deontic Logics for Reasoning about Uncertain Norms - Vincent de Wit, Dragan Doder, John-Jules Ch. Meyer
   - Journal paper: FLAP 10(2): 193-220 (2023)
-
 ## 2022
-
-## 2021
-
+## 2023
 - A Probabilistic Deontic Logic - Vincent de Wit, Dragan Doder, John-Jules Ch. Meyer
   - Conference paper: ECSQARU 2021: 616-628
   - [conference website](https://ecsqaru.utia.cas.cz)
   - [video](https://www.youtube.com/live/Hh944jtZoHE?si=m1ZsTVoZuJbxXtVy&t=1680)
+
+
+# Teaching
+## 2025
+- Intelligent Systems 2 (4 ects); Teaching Assistant
+## 2024
+- Intelligent Systems 2 (4 ects); Teaching Assistant
+- Discrete Mathematics 1 (5 ects); Teaching Assistant
+## 2023 
+- Intelligent Systems 2 (4 ects); Teaching Assistant
+- Discrete Mathematics 1 (5 ects); Teaching Assistant
+## 2022
+- Discrete Mathematics 1 (5 ects); Teaching Assistant
+
