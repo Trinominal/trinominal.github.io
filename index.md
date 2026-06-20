@@ -31,6 +31,7 @@ Krishnamacharya number: 3
 ## Yoga
 - 2026: Black Lotus: Into the depths
 - 12-26 jul 2025: 108h TT Navakaraṇa Vinyāsa Teacher Training; M1 Grounding and Opening, by Dario Calvaruso, Bologna
+- Yoga retreat Italy Exhale-HouseOfOm
 - 24-25 feb 2024: Navakaraṇa Vinyāsa Immersion Workshop, by Dario Calvaruso, Exhale Yoga Luxembourg
 - 26-28 jan 2024: 25H TT Rocket Yoga Teacher Training, by David Cabezas Sanches, Exhale Yoga Luxembourg
 - 10-12 nov 2023: 25H TT Rocket Yoga Teacher Training, by David Cabezas Sanches, Exhale Yoga Luxembourg
