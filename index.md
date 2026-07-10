@@ -17,7 +17,8 @@ Krishnamacharya number: 3
 
 # Education
 ## University
-- 2022-now: PhD AI/CS ICR-CLAIM group, University Luxembourg
+- 2022-now: PhD AI/CS ICR-CLAIM group, University Luxembourg   
+  - [Phd Dissertation: Principled Dual-Scale Detachment for IHiBO.](vjdw_phd_dissertation.pdf)
   - [Timeline of AI](Timeline_of_AI.pdf)
 - 2019-2021 MSc Artificial Intelligence, University of Utrecht
   - [Thesis: Probabilistic Deontic Logics](Thesis_ProbabilisticDeonticLogics.pdf)
