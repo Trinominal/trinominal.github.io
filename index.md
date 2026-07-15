@@ -14,6 +14,15 @@ Erdos number: 4
 
 Krishnamacharya number: 3
 
+# Travels
+- Kutaisi, Georgie
+- Bolognia & Ravenna, Itali 
+- Trois Riviere & Sherbrook, Canada 
+- Vienna, Austria
+- Leuven, Belgium
+- Galway, Ireland
+- Haifa, Israel
+
 
 # Education
 ## University
@@ -39,7 +48,6 @@ Krishnamacharya number: 3
 - 22    jan 2023: Wim Hoff Method Workshop, by B-YOU, Exhale Yoga Luxembourg
 - 2018: Ashtanga Yoga Immersion, Bhumi Yoga Groningen
 - 2013: first sun salutation
-
 
 # Contributions
 ## 2025
