@@ -16,7 +16,7 @@ Krishnamacharya number: 3
 
 # Travels
 - Kutaisi, Georgie
-- Bolognia & Ravenna, Itali 
+- Bolognia & Ravenna, Italy
 - Trois Riviere & Sherbrook, Canada 
 - Vienna, Austria
 - Leuven, Belgium
