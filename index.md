@@ -5,6 +5,7 @@
 # About Me
 ![image](Isolated.png "Lux et Veritas")
 
+Vincent has been interested in AI and yoga since childhood, playing with k'nex making small robots and other models while sitting in Sukhasana. His trip to PhD was not obvious although also not unexpected, definitly met with difficulty however at times punching below his weight-class. 
 
 # Details
 I study AI.
