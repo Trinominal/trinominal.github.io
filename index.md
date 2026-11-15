@@ -1,5 +1,7 @@
 *non solus*
 
+The ball is round (and rolls).
+
 # About Me
 ![image](Isolated.png "Lux et Veritas")
 
@@ -15,7 +17,8 @@ Erdos number: 4
 Krishnamacharya number: 3
 
 # Travels
-- Kutaisi, Georgie
+- Agen, France
+- Kutaisi, Georgia
 - Bolognia & Ravenna, Italy
 - Trois Riviere & Sherbrook, Canada 
 - Vienna, Austria
@@ -39,6 +42,7 @@ Krishnamacharya number: 3
   - Infinite dimensional sphere
 
 ## Yoga
+- 2026 july: Larugar Glaser Retreat at Ashtanga France also with David Fredriksson
 - 2026: Black Lotus: Into the depths
 - 12-26 jul 2025: 108h TT Navakaraṇa Vinyāsa Teacher Training; M1 Grounding and Opening, by Dario Calvaruso, Bologna
 - Yoga retreat Italy Exhale-HouseOfOm
@@ -50,6 +54,8 @@ Krishnamacharya number: 3
 - 2013: first sun salutation
 
 # Contributions
+## 2026
+- PhD dissertation: Dual Scale detachement for IHiBO; the MAS effect. - Vincent J. de Wit
 ## 2025
 - Dual Scale Detachment - Vincent de Wit, Aleks Knoks and Leendert van der Torre
   - Conference paper: JELIA 2025, Kutaisi Georgia
