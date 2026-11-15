@@ -101,6 +101,8 @@ Krishnamacharya number: 3
 - Discrete Mathematics 1 (5 ects); Teaching Assistant
 
 
+# Miscellaneous
 
+Conways game of life: https://www.youtube.com/watch?v=C2vgICfQawE
 
 *The ball is round (and rolls).*
