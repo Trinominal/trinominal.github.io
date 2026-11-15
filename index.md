@@ -42,7 +42,7 @@ Krishnamacharya number: 3
   - Infinite dimensional sphere
 
 ## Yoga
-- 2026 july: Larugar Glaser Retreat at Ashtanga France also with David Fredriksson
+- 26th July - 1st August 2026: Larugar Glaser Retreat at Ashtanga France with David Fredriksson
 - 2026: Black Lotus: Into the depths
 - 12-26 jul 2025: 108h TT Navakaraṇa Vinyāsa Teacher Training; M1 Grounding and Opening, by Dario Calvaruso, Bologna
 - Yoga retreat Italy Exhale-HouseOfOm
