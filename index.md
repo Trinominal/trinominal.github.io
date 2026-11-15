@@ -1,6 +1,6 @@
 *non solus*
 
-The ball is round (and rolls).
+
 
 # About Me
 ![image](Isolated.png "Lux et Veritas")
@@ -99,3 +99,7 @@ Krishnamacharya number: 3
 ## 2022
 - Discrete Mathematics 1 (5 ects); Teaching Assistant
 
+
+
+
+*The ball is round (and rolls).*
