@@ -103,6 +103,7 @@ Krishnamacharya number: 3
 
 # Miscellaneous
 
-Conways game of life: https://www.youtube.com/watch?v=C2vgICfQawE
+- Conways game of life: https://www.youtube.com/watch?v=C2vgICfQawE
+- the defuse kit paradox: don't be a loser buy a defuser vs. mindset that allows for plant.
 
 *The ball is round (and rolls).*
