@@ -110,6 +110,6 @@ Krishnamacharya number: 3
 - Agent Orchestration mess: https://www.youtube.com/watch?v=l5wvqKcqL7c
 - favourite algorithm: https://en.wikipedia.org/wiki/Cannon%27s_algorithm
   - maybe dijkstra's
-- 
+- still confused about the axiom of choice implying 1+1=3
 
 *The ball is round (and rolls).*
