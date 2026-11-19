@@ -108,5 +108,8 @@ Krishnamacharya number: 3
 - Conways game of life: https://www.youtube.com/watch?v=C2vgICfQawE
 - the defuse kit paradox: don't be a loser buy a defuser vs. are you expecting be a loser when you buy a defuser?
 - Agent Orchestration mess: https://www.youtube.com/watch?v=l5wvqKcqL7c
+- favourite algorithm: https://en.wikipedia.org/wiki/Cannon%27s_algorithm
+  - maybe dijkstra's
+- 
 
 *The ball is round (and rolls).*
