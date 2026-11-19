@@ -104,6 +104,7 @@ Krishnamacharya number: 3
 # Miscellaneous
 
 - Conways game of life: https://www.youtube.com/watch?v=C2vgICfQawE
-- the defuse kit paradox: don't be a loser buy a defuser vs. mindset that allows for plant.
+- the defuse kit paradox: don't be a loser buy a defuser vs. are you expecting be a loser when you buy a defuser?
+- Agent Orchestration mess: https://www.youtube.com/watch?v=l5wvqKcqL7c
 
 *The ball is round (and rolls).*
