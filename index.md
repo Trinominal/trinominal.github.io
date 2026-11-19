@@ -112,5 +112,6 @@ Krishnamacharya number: 3
 - favourite algorithm: https://en.wikipedia.org/wiki/Cannon%27s_algorithm
   - maybe dijkstra's
 - still confused about the axiom of choice implying 1+1=3
+- Carl Jung’s Hammer and Anvil Metaphor
 
 *The ball is round (and rolls).*
