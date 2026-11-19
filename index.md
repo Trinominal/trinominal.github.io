@@ -26,6 +26,8 @@ Krishnamacharya number: 3
 - Leuven, Belgium
 - Galway, Ireland
 - Haifa, Israel
+- --
+- other trips pre univerisity
 
 
 # Education
